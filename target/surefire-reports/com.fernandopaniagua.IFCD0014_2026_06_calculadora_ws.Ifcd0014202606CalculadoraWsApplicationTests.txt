@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.fernandopaniagua.IFCD0014_2026_06_calculadora_ws.Ifcd0014202606CalculadoraWsApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.241 s -- in com.fernandopaniagua.IFCD0014_2026_06_calculadora_ws.Ifcd0014202606CalculadoraWsApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.255 s -- in com.fernandopaniagua.IFCD0014_2026_06_calculadora_ws.Ifcd0014202606CalculadoraWsApplicationTests
